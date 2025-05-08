@@ -924,6 +924,13 @@
   ],
   "projects": [
     {
+      "name": "Resume Viewer",
+      "description": "Designed and developed a prototype web application that showcases professional skills through an interactive resume platform. Built with React, Tailwind CSS, and a Zod-based schema system extending the JSON Resume standard. Features include responsive design, customizable deployment parameters, and dynamic data visualization components.",
+      "url": "https://resume-viewer.richardadleta.com",
+      "client": "Richard Adleta",
+      "startDate": "2025-04-15"
+    },
+    {
       "name": "PromptPasta",
       "description": "A VS Code extension that allows users to copy selected files as formatted markdown.",
       "url": "https://marketplace.visualstudio.com/items?itemName=RichardAdleta.promptpasta",
